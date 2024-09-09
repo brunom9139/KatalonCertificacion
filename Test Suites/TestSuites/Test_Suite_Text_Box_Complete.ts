@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test_Suite_Text_Box_Complete</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a6d9f86b-a670-412a-bef7-a7e581cf40f0</testSuiteGuid>
+   <testCaseLink>
+      <guid>c944ae55-e8ad-442d-8ab4-3741074f04dc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Elements_Text_Box_Complete</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>73390233-7e37-40f2-8248-2dbc6117f277</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestTextBoxComplete</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>73390233-7e37-40f2-8248-2dbc6117f277</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>User</value>
+         <variableId>73da645d-3c91-4578-97dd-204a709c8c61</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>73390233-7e37-40f2-8248-2dbc6117f277</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>524b5796-807a-47a3-9c1d-2af71bb18292</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>73390233-7e37-40f2-8248-2dbc6117f277</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Direccion</value>
+         <variableId>ff7d369a-d1ad-46d3-8f9b-1800d50322a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>73390233-7e37-40f2-8248-2dbc6117f277</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Permanente</value>
+         <variableId>24b08c1d-eb0b-427d-b6db-1ea5dd5a47f6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

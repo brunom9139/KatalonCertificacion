@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Elements_Web_Tables_Edit_Search_Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b47c92c-09b3-4ba2-acb5-fb13c0e5a46d</testCaseGuid>
+</TestCaseEntity>

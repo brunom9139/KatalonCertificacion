@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test_Suite_Form</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>9ce6ffac-6294-46d1-bf50-bb2d446bfd69</testSuiteGuid>
+   <testCaseLink>
+      <guid>0045785d-b1b4-4db8-8dda-5118228f587b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Elements_Forms_Practice_Form_Submit</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>df5b00a1-e592-4edd-abc8-5d524852a616</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>df5b00a1-e592-4edd-abc8-5d524852a616</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nombre</value>
+         <variableId>8a150efc-77f3-49a3-bfc5-b92dd45faef0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>df5b00a1-e592-4edd-abc8-5d524852a616</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Apellido</value>
+         <variableId>0d7b692b-61db-4d56-8ef6-c3948c3e0225</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>df5b00a1-e592-4edd-abc8-5d524852a616</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>34eb5eb9-2c17-4c64-8f91-682516f22339</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>df5b00a1-e592-4edd-abc8-5d524852a616</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Numero</value>
+         <variableId>e33ea78d-2d53-487f-860d-3ba37594df24</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>df5b00a1-e592-4edd-abc8-5d524852a616</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Subjet</value>
+         <variableId>9405fbd3-fdc1-4db8-b1b7-60a3cc3f9484</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

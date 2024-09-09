@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Elements_Web_Tables_Delete_All</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8beff7e-2950-4d86-8420-b89c36dc9b42</testCaseGuid>
+</TestCaseEntity>
