@@ -6,12 +6,12 @@
    <elementGuidId>d2525ee5-98dc-4018-90a1-f89bf22d9879</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='closeLargeModal']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#closeLargeModal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

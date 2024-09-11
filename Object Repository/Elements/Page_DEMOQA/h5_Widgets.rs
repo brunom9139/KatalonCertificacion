@@ -6,12 +6,11 @@
    <elementGuidId>83389fff-f812-4df4-8e1e-114ff73aaf74</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/div[2]/div/div[4]/div/div[3]/h5</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h5</value>
-      <webElementGuid>d19f230b-e2f6-4d35-abc2-b390c9fad0ce</webElementGuid>
+      <webElementGuid>d0443a05-a0e3-4db7-922b-ff88cebccad0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Widgets</value>
-      <webElementGuid>86904819-f07e-40f2-abf2-d1bfc8a89ebb</webElementGuid>
+      <webElementGuid>b1f12335-0584-41bb-8b0f-acaee19d52e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +44,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;home-content&quot;]/div[@class=&quot;home-body&quot;]/div[@class=&quot;category-cards&quot;]/div[@class=&quot;card mt-4 top-card&quot;]/div[1]/div[@class=&quot;card-body&quot;]/h5[1]</value>
-      <webElementGuid>d3b649c6-fcb0-417f-8a62-99c6453679b5</webElementGuid>
+      <webElementGuid>731dff27-4d33-465e-b4e3-888b6a65e24a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/div[2]/div/div[4]/div/div[3]/h5</value>
-      <webElementGuid>597c8454-eea0-429e-97a6-fc23d26dfd13</webElementGuid>
+      <value>//div[@id='app']/div/div/div[2]/div/div[4]</value>
+      <webElementGuid>a45a0255-ca19-4474-8ee1-420caae25c96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts, Frame &amp; Windows'])[1]/following::h5[1]</value>
-      <webElementGuid>7ea7287f-f787-48af-b44e-84f1378e70c3</webElementGuid>
+      <webElementGuid>4f67e749-cc21-48a5-80ba-835fbdc82781</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forms'])[1]/following::h5[2]</value>
-      <webElementGuid>e8cbeaaf-b041-4d33-8aa8-c51ead961c05</webElementGuid>
+      <webElementGuid>e905406e-22d0-40ee-8cfd-655d4f1e8896</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Interactions'])[1]/preceding::h5[1]</value>
-      <webElementGuid>486c5607-3321-43de-aed7-52e32df35045</webElementGuid>
+      <webElementGuid>401cbee7-1e85-42ee-a99d-da297b83fdb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Store Application'])[1]/preceding::h5[2]</value>
-      <webElementGuid>8900cae2-1831-4cd7-bb3a-bc69beb6826c</webElementGuid>
+      <webElementGuid>f78dec8c-5050-4b74-8465-70da80e93ea9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Widgets']/parent::*</value>
-      <webElementGuid>8f685cc2-b242-44d9-ba45-f4be762036c4</webElementGuid>
+      <webElementGuid>bfe62e51-f1d4-46a7-9871-32b62376fb60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div[3]/h5</value>
-      <webElementGuid>9871186e-ce7a-4d75-8aa6-bce77d260e68</webElementGuid>
+      <webElementGuid>72b9ca5b-8293-493e-987b-a9c88304bc55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h5[(text() = 'Widgets' or . = 'Widgets')]</value>
-      <webElementGuid>ff059155-fe7b-43dc-9e1b-f38d0a2d025a</webElementGuid>
+      <webElementGuid>eb38972c-1c18-41c8-980c-41a33b4df034</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

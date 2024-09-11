@@ -6,12 +6,12 @@
    <elementGuidId>d2c50b6a-a7e7-4dd4-87e4-2e6f3409086e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/div[2]/div/div/div/div[3]/h5</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Forms'])[1]/preceding::h5[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h5</value>
-      <webElementGuid>375731ac-6843-483a-9775-5b4b602b2bf1</webElementGuid>
+      <webElementGuid>1a9b0718-91f2-4e17-833f-48e75d6fba73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Elements</value>
-      <webElementGuid>b34aef15-f1dd-4709-8fa9-26845d5af209</webElementGuid>
+      <webElementGuid>6f79f5e9-2943-465c-97fc-5d5d03eb32d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;home-content&quot;]/div[@class=&quot;home-body&quot;]/div[@class=&quot;category-cards&quot;]/div[@class=&quot;card mt-4 top-card&quot;]/div[1]/div[@class=&quot;card-body&quot;]/h5[1]</value>
-      <webElementGuid>b85a5c0d-2b90-4f87-ad79-2416dee800d6</webElementGuid>
+      <webElementGuid>25317bb2-2549-4dc0-ae83-70f425c1090c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/div[2]/div/div/div/div[3]/h5</value>
-      <webElementGuid>0f59a9f3-89ce-4a17-be20-8b2e783d8643</webElementGuid>
+      <value>//div[@id='app']/div/div/div[22]/div/div/div/div[3]/h5</value>
+      <webElementGuid>bb04f709-8ab0-419d-9e04-fdc58d3f4fd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forms'])[1]/preceding::h5[1]</value>
-      <webElementGuid>94e3794a-c99a-4382-a141-b18ca003d8ca</webElementGuid>
+      <webElementGuid>4b297e8e-10f3-4bf5-95b1-be5ea21be648</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts, Frame &amp; Windows'])[1]/preceding::h5[2]</value>
-      <webElementGuid>8d35422b-70fa-42bc-bc09-ca5b52f57f89</webElementGuid>
+      <webElementGuid>120abddc-00ad-4f66-b46f-9ec785b7af61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Elements']/parent::*</value>
-      <webElementGuid>040f343e-a6ea-44ad-98eb-f5ff8e4f828c</webElementGuid>
+      <webElementGuid>fd9b4cd9-7a92-40ca-905f-8809ff89ad61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h5</value>
-      <webElementGuid>1ea03e85-1ae9-4d3c-b7b0-92f67afe6bc2</webElementGuid>
+      <webElementGuid>3d22d801-6acb-47a5-aa4a-43d199726f36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h5[(text() = 'Elements' or . = 'Elements')]</value>
-      <webElementGuid>0acd58da-b286-4685-add8-e0811196d2c5</webElementGuid>
+      <webElementGuid>e379fd1b-3e87-4c72-8aae-c04613b6d45f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

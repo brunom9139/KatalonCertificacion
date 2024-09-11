@@ -6,12 +6,12 @@
    <elementGuidId>ac5ea8d0-e264-4fed-bd68-807f123cc3dd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='confirmButton']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#confirmButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d0021b2a-32b2-4685-af55-a743053757b4</webElementGuid>
+      <webElementGuid>351c8a4f-6d8f-4b34-b70d-61e930ed3ae5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>confirmButton</value>
-      <webElementGuid>697d06ab-41fb-4f61-b004-0c340fb0a3d2</webElementGuid>
+      <webElementGuid>a71d3220-cdbf-47b2-90b5-a294b59f9f71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6eb93112-1960-4728-9443-b77cfc8c178b</webElementGuid>
+      <webElementGuid>f6beae6e-7c0e-47e2-9d38-5b3226cae71f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>6b5e6e38-7154-44ba-a39f-bd88d43fc5e5</webElementGuid>
+      <webElementGuid>9a16fc26-2e51-4d27-89d6-79c4b0b46901</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Click me</value>
-      <webElementGuid>3cb1b95b-ec11-4925-b06d-6f737606e363</webElementGuid>
+      <webElementGuid>7b2bd25b-a651-4eec-bc8b-f3bfbc512a02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;confirmButton&quot;)</value>
-      <webElementGuid>b8a97ede-66c8-426e-a456-3b3d52d7ec31</webElementGuid>
+      <webElementGuid>53137fa3-06ae-4ead-9a83-b22ef93e4ca2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='confirmButton']</value>
-      <webElementGuid>daad0c60-c52c-4ade-b50c-82dbb90f0b41</webElementGuid>
+      <webElementGuid>cfa6323f-d51a-405a-9a4a-768931eaca6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='javascriptAlertsWrapper']/div[3]/div[2]/button</value>
-      <webElementGuid>c1fea93d-13f0-464e-b33e-943b6d0cf2b3</webElementGuid>
+      <webElementGuid>a0d0b6fd-ccff-4c02-8821-ad41a3b37744</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On button click, confirm box will appear'])[1]/following::button[1]</value>
-      <webElementGuid>ee153ede-85e6-4341-b60e-a814d96a5bd4</webElementGuid>
+      <webElementGuid>ece64ccf-96ff-452b-9463-981daaddaf5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Click me'])[2]/following::button[1]</value>
-      <webElementGuid>528b6e2a-02d3-44bc-8295-07710539b8d1</webElementGuid>
+      <webElementGuid>acc84546-539c-44c7-bc40-c2836921f486</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On button click, prompt box will appear'])[1]/preceding::button[1]</value>
-      <webElementGuid>03f25a69-a0f4-4d31-ab51-4354d2827c23</webElementGuid>
+      <webElementGuid>9a23c6dc-09c7-46e1-a6bc-dd706aa9342b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Click me'])[4]/preceding::button[1]</value>
-      <webElementGuid>ecca54f2-0f8d-44f7-b3aa-2e7a872bc597</webElementGuid>
+      <webElementGuid>a5920930-e8fe-4555-9960-ee057c4fbfdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/button</value>
-      <webElementGuid>0e8ba3d9-1b04-4487-9711-a645d90db611</webElementGuid>
+      <webElementGuid>7c035480-b21a-4afb-adab-ba9e6da7cfef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'confirmButton' and @type = 'button' and (text() = 'Click me' or . = 'Click me')]</value>
-      <webElementGuid>df047e6a-9d77-4e1c-b64d-6501eeda3b73</webElementGuid>
+      <webElementGuid>2b43ea3f-06df-4494-82e7-ce706ccea034</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='timerAlertButton']</value>
-      <webElementGuid>3cad6d8d-9012-492d-b8eb-0ccae0a73c38</webElementGuid>
+      <webElementGuid>c6218d99-5d93-4f3b-8dc3-609868ff9202</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='javascriptAlertsWrapper']/div[2]/div[2]/button</value>
-      <webElementGuid>6c94fcc1-190f-4b69-931b-10e54606352d</webElementGuid>
+      <webElementGuid>570324f0-daa6-478e-804e-117c3e07c0ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On button click, alert will appear after 5 seconds'])[1]/following::button[1]</value>
-      <webElementGuid>f65078ab-143c-41f0-8762-7c3d45e82f86</webElementGuid>
+      <webElementGuid>f4c694c4-6b21-41c8-a8e2-651cc7ef74ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Click me'])[1]/following::button[1]</value>
-      <webElementGuid>7d0687d3-4b2c-4d2f-b719-73470df447c9</webElementGuid>
+      <webElementGuid>b4159c4e-580e-4948-8d20-5a0a6fc2f158</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On button click, confirm box will appear'])[1]/preceding::button[1]</value>
-      <webElementGuid>ecce4ac9-97d2-43ed-b2a1-396d1004b5f8</webElementGuid>
+      <webElementGuid>787cce41-18dc-48d9-99ac-7eff3d6f5b21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Click me'])[3]/preceding::button[1]</value>
-      <webElementGuid>be85200d-59da-4377-8fc0-bed853835a76</webElementGuid>
+      <webElementGuid>2d8ff0b0-fa2e-4f30-ae85-990dc9741c1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,7 +189,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button</value>
-      <webElementGuid>7e14caca-8d04-4c3e-a26a-a68a080b174f</webElementGuid>
+      <webElementGuid>5b0eadae-7922-4f61-8f32-cf9dddb6b118</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -197,7 +197,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'timerAlertButton' and @type = 'button' and (text() = 'Click me' or . = 'Click me')]</value>
-      <webElementGuid>a53f8b3e-39a9-43dc-b542-ff9541e4ceba</webElementGuid>
+      <webElementGuid>cd1a2995-9569-41f4-8c2b-c924f168b9c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -205,7 +205,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='alertButton']</value>
-      <webElementGuid>095c14f6-dec1-40c0-8d12-f48a8816a9b3</webElementGuid>
+      <webElementGuid>97153e02-6297-4b5b-9c5c-5cc813812545</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -213,7 +213,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='javascriptAlertsWrapper']/div/div[2]/button</value>
-      <webElementGuid>db289a98-f5fc-4694-97d2-b12977f3de4d</webElementGuid>
+      <webElementGuid>8642d1ed-86bd-44b3-a7c6-39dd0a5f29dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -221,7 +221,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Click Button to see alert'])[1]/following::button[1]</value>
-      <webElementGuid>bfc2a942-452d-4d19-a211-21103507c58d</webElementGuid>
+      <webElementGuid>9e83b563-0206-4f56-b08d-08a6eccd733b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -229,7 +229,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts'])[2]/following::button[1]</value>
-      <webElementGuid>a369bd53-abab-4c91-8aa7-27d67d0acb20</webElementGuid>
+      <webElementGuid>6d54bcb7-0366-42f4-9197-ea7560a04eb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -237,7 +237,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On button click, alert will appear after 5 seconds'])[1]/preceding::button[1]</value>
-      <webElementGuid>d55ac897-9a4e-439b-8ed5-afd563c9ee67</webElementGuid>
+      <webElementGuid>a635e4f7-a942-4de3-955e-0a917dddc9f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -245,7 +245,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Click me'])[2]/preceding::button[1]</value>
-      <webElementGuid>d4498dda-e839-4d33-aff3-8e4a2051d2b6</webElementGuid>
+      <webElementGuid>2099a199-cd5e-423a-9647-bed6ceb40133</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -253,7 +253,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Click me']/parent::*</value>
-      <webElementGuid>df231550-02f4-4035-adf1-f48d81e818be</webElementGuid>
+      <webElementGuid>a132608b-2ca0-4f62-a460-71a4c7ef705b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -261,7 +261,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>6ee920ba-0cff-4e13-a8ef-0a317f138f41</webElementGuid>
+      <webElementGuid>3eb27632-75d0-407b-83fb-e9a86982543b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -269,7 +269,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'alertButton' and @type = 'button' and (text() = 'Click me' or . = 'Click me')]</value>
-      <webElementGuid>8f5b6f11-8477-4ab3-923d-d7897c70e947</webElementGuid>
+      <webElementGuid>7d0a1bda-5329-41b3-bbdd-3df27243382c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -277,7 +277,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='r8Uaf']</value>
-      <webElementGuid>22fe295d-74ea-4e88-9fe7-c69eddfe0513</webElementGuid>
+      <webElementGuid>19947ac5-6678-44a3-96e4-b018b5bc5589</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -285,7 +285,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div[2]/div[2]/div[3]/button</value>
-      <webElementGuid>6855f97a-b8e3-4bb0-aa10-1723e9252ced</webElementGuid>
+      <webElementGuid>ec7bbaff-ff29-44a2-88de-501878c8e2d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -293,7 +293,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Right Click Me'])[1]/following::button[1]</value>
-      <webElementGuid>e7b4d4a9-08d6-410f-b87b-39276b0e85f8</webElementGuid>
+      <webElementGuid>e263a004-6a30-4f64-8c15-31f89d1a5fe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -301,7 +301,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Double Click Me'])[1]/following::button[2]</value>
-      <webElementGuid>31ce12cf-eaa9-44e1-a9ab-bbdacefd311f</webElementGuid>
+      <webElementGuid>e29aa51d-971f-4b2d-888f-8238c0de865e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -309,7 +309,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::button[1]</value>
-      <webElementGuid>5ed7e458-f7b1-432f-9b44-432ce008776d</webElementGuid>
+      <webElementGuid>fd008c24-7f17-4467-b140-a837cc9af5b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -317,7 +317,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Click Me']/parent::*</value>
-      <webElementGuid>d1cfce07-048b-4d52-8d11-dc4ad30eecba</webElementGuid>
+      <webElementGuid>16beacec-9019-44e8-9c91-e1855cea52dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -325,7 +325,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>6d6e9651-0e39-4335-9342-534b18c19b5c</webElementGuid>
+      <webElementGuid>0ccf9bee-0143-428f-bff1-c02c66edfd2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -333,7 +333,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'r8Uaf' and @type = 'button' and (text() = 'Click Me' or . = 'Click Me')]</value>
-      <webElementGuid>3af0640f-f7a0-462b-8ed1-7393769561f1</webElementGuid>
+      <webElementGuid>2f982360-cff7-4700-ad2c-daf781eca8e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -341,7 +341,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='Uuk5o']</value>
-      <webElementGuid>b66b71e3-3b1b-4f62-b0cb-87411dfaccbe</webElementGuid>
+      <webElementGuid>25ff7a58-b785-4e4e-80d8-8fc8370bbba0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -349,6 +349,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'Uuk5o' and @type = 'button' and (text() = 'Click Me' or . = 'Click Me')]</value>
-      <webElementGuid>fac23591-d3dd-4737-8fc9-d59cc599e3d0</webElementGuid>
+      <webElementGuid>c73a23d3-efbf-4a28-83f2-884737d2b40d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

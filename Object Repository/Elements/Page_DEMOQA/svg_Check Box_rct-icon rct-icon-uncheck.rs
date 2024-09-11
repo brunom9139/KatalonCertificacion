@@ -6,12 +6,12 @@
    <elementGuidId>ad89b462-76b8-4249-9c8f-d6754ec27fcb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::*[name()='svg'][1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#basic-addon2 > span > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Box'])[2]/following::*[name()='svg'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
